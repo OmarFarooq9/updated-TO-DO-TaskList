@@ -3,7 +3,9 @@ Description
 
 This To-Do Task List is a simple web application that allows users to manage their tasks and to-do lists efficiently. This project was created to help users organize their tasks and stay productive.
 
+
 Features
+
 
 1. Add, edit, and delete tasks
 
@@ -13,7 +15,9 @@ Features
 
 4. Save data to local storage
 
+
 Technologies Used
+
 
 HTML5
 
