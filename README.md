@@ -5,7 +5,7 @@ This To-Do Task List is a simple web application that allows users to manage the
 
 Features
 
-Add, edit, and delete tasks
-Mark tasks as completed
-User-friendly interface
-save data to local storage
+1.Add, edit, and delete tasks
+2.Mark tasks as completed
+3.User-friendly interface
+4.save data to local storage
