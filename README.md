@@ -8,3 +8,4 @@ Features
 Add, edit, and delete tasks
 Mark tasks as completed
 User-friendly interface
+save data to local storage
