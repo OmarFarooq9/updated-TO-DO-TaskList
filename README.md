@@ -19,16 +19,16 @@ Features
 Technologies Used
 
 
-  -HTML5
+    -HTML5
 
-  -CSS3
+    -CSS3
 
-  -JavaScript
+    -JavaScript
 
 
 Getting Started
 
 
-  -Clone this repository: git clone https://github.com/OmarFarooq9/updated-TO-DO-TaskList.git
+    -Clone this repository: git clone https://github.com/OmarFarooq9/updated-TO-DO-TaskList.git
 
-  -Navigate to the project directory: cd updated-TO-DO-TaskList
+    -Navigate to the project directory: cd updated-TO-DO-TaskList
