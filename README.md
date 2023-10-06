@@ -7,28 +7,28 @@ This To-Do Task List is a simple web application that allows users to manage the
 Features
 
 
-    1. Add, edit, and delete tasks
+ 1. Add, edit, and delete tasks
 
-    2. Mark tasks as completed
+ 2. Mark tasks as completed
   
-    3. User-friendly interface
+ 3. User-friendly interface
 
-    4. Save data to local storage
+ 4. Save data to local storage
 
 
 Technologies Used
 
 
-    -HTML5
+ -HTML5
 
-    -CSS3
+ -CSS3
 
-    -JavaScript
+ -JavaScript
 
 
 Getting Started
 
 
-    -Clone this repository: git clone https://github.com/OmarFarooq9/updated-TO-DO-TaskList.git
+-Clone this repository: git clone https://github.com/OmarFarooq9/updated-TO-DO-TaskList.git
 
-    -Navigate to the project directory: cd updated-TO-DO-TaskList
+-Navigate to the project directory: cd updated-TO-DO-TaskList
